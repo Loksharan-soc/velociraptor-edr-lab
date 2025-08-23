@@ -1,4 +1,4 @@
-# velociraptor-edr-lab
+# Velociraptor-DFIR-Lab
 
 
 
